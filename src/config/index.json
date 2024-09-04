@@ -18,7 +18,7 @@
     "href": "#"
   },
   "mainHero": {
-    "title": "Belleza",
+    "title": "Huevos",
     "subtitle": "la Mona",
     "description": "",
     "img": "/assets/images/1.png",
@@ -36,12 +36,12 @@
     "items": [
       {
         "title": "Nos caracteriza",
-        "description": "Belleza La Mona es tu espacio de cuidado y estilo. Nos especializamos en ofrecer servicios de belleza personalizados que realzan tu belleza natural. ",
+        "description": "En Huevos La Mona, nos dedicamos a ofrecer huevos frescos y de alta calidad para tu hogar. Nuestro compromiso es mantener la frescura en cada producto, garantizando un sabor y valor nutritivo excepcionales.",
         "img": "/assets/images/2.png"
       },
       {
         "title": "Nuestro Objetivo",
-        "description": "Con un equipo de profesionales capacitados y productos de calidad, nuestro objetivo es que te sientas bien por dentro y por fuera. Porque para nosotros, la belleza se refleja en cada detalle.",
+        "description": "Con un enfoque en la excelencia, trabajamos día a día para llevar lo mejor de nuestros huevos directamente a tu mesa.",
         "img": "/assets/images/logo.png"
       }
     ]
