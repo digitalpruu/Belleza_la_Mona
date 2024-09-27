@@ -32,15 +32,15 @@
     }
   },
   "product": {
-    "title": "Sobre Nosotros",
+    "title": "Acerca de Nosotros",
     "items": [
       {
-        "title": "Nos caracteriza",
+        "title": "¿Quiénes somos?",
         "description": "En Huevos La Mona, nos dedicamos a ofrecer huevos frescos y de alta calidad para tu hogar. Nuestro compromiso es mantener la frescura en cada producto, garantizando un sabor y valor nutritivo excepcionales.",
         "img": "/assets/images/2.png"
       },
       {
-        "title": "Nuestro Objetivo",
+        "title": "¿Por qué comer nuestros huevos?",
         "description": "Con un enfoque en la excelencia, trabajamos día a día para llevar lo mejor de nuestros huevos directamente a tu mesa.",
         "img": "/assets/images/logo.png"
       }
@@ -53,18 +53,18 @@
     "items": [
       {
         "name": "Número",
-        "description": "+57 300 123456",
+        "description": "+57 320 4501992",
         "icon": "/assets/images/phone.png"
       },
       {
         "name": "Email",
-        "description": "minegocio@gmail.com",
+        "description": "mariaparadequitero@gmail.com",
         "icon": "/assets/images/email.png"
       },
       {
-        "name": "Instagram",
-        "description": "@MiNegocio",
-        "icon": "/assets/images/insta.png"
+        "name": "Facebook",
+        "description": "Venta De Huevos La Mona",
+        "icon": "/assets/images/facebook.jpg"
       },
       {
         "name": "Facebook",
